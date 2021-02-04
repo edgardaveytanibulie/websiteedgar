@@ -1,4 +1,4 @@
-const txtElement = ['Seorang Otaku', 'Anime Lovers', 'Pecinta Anime'];
+const txtElement = ['Creator BOT','Pembuat website'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
